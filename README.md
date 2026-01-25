@@ -12,8 +12,6 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Systems / Software Engineering yo‘nalishida ishlayman  
-- 🧩 Muammolarni **code orqali yechishni** yaxshi ko‘raman  
 - 💻 Backend, Frontend va OS-level loyihalar  
 - 🚀 Real project → real skill tamoyili  
 
