@@ -57,7 +57,7 @@
   <a href="https://github.com/devxoleric">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/devxoleric">
+  <a href="https://www.linkedin.com/in/xoleric-undefined-8b689b3a1?trk=contact-info">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:corexoleric@gmail.com">
