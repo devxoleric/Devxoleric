@@ -1,48 +1,76 @@
-# 👋 Hi, I'm devxoleric
+<!-- ===================== -->
+<!--  XOLERIC GITHUB PROFILE  -->
+<!-- ===================== -->
 
-🧠 Independent Developer | 💻 Web & Interactive Systems | 🕶 
+<h1 align="center">👋 Hey, I'm Xoleric</h1>
+<h3 align="center">⚡ Systems Engineer | Developer | Cyber Mindset</h3>
 
----
-
-## 🧩 About Me
-I build **character-driven systems**, not just code.
-
-- ⚡ Focused on performance & real-time interaction  
-- 🧪 Experimental UI, games, and system logic  
-- 🖤 Dark, minimal, cyber aesthetics  
-- 🚫 Not interested in fake MVPs — only working products  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Code.+Build.+Break.+Repeat.;Linux+%7C+Web+%7C+Systems;Always+Learning+New+Tech" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+## 🧠 About Me
+- 🎓 Systems / Software Engineering yo‘nalishida ishlayman  
+- 🧩 Muammolarni **code orqali yechishni** yaxshi ko‘raman  
+- 💻 Backend, Frontend va OS-level loyihalar  
+- 🚀 Real project → real skill tamoyili  
+
+> *"Talk is cheap. Show me the code."* — **Linus Torvalds**
 
 ---
 
-## 🧪 What I Build
-- ⚔️ Interactive & cyber-style web projects  
-- 💬 Realtime chat systems (Supabase based)  
-- 🎮 Browser games (single-player logic)  
-- 🎵 Custom media players (GitHub Pages ready)  
+## 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,react,nodejs,linux,git,github,docker,mysql,postgres" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=devxoleric&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devxoleric&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-- 💬 Telegram: https://devxoleric.github.io/open-telegram/ 
-- 📸 Instagram: https://instagram.com/cvant23
-- 🧑‍💻 GitHub: https://github.com/devxoleric
+## 🚀 Featured Projects
+- 🧠 **XOLERIC OS** — Cyber themed OS UI & concepts  
+- ⚙️ **Neural Architect** — Terminal-style web system  
+- 🌐 **Web Experiments** — Dark UI / Animated Interfaces  
+
+👉 *More projects below ↓*
 
 ---
 
-## 🕯 Philosophy
-> **"Wake Up."** 
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/devxoleric">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/devxoleric">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:corexoleric@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff41&style=flat-square" />
+</p>
+
+<p align="center">
+  <strong>⚠️ This profile is under constant development.</strong>
+</p>
