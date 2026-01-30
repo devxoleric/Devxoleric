@@ -1,6 +1,4 @@
-⚡ **PROFESSIONAL NOTICE:** Siz mening texnik portfelimni faollashtirdingiz. Keling, haqiqiy mahoratni ko'ramiz.
 
----
 
 ## 🛠️ Professional Tech Stack
 
