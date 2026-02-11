@@ -1,18 +1,9 @@
 
-# 👋 Salom, men Xoleric
+# I'm Xoleric
 
-Men **I'm not Developer but ** va **HTML / CSS / JS** ishlarini sevuvchi xavaskor dasturchiman.  
-Oddiy, toza va minimalist  yechimlarni yaratishga intilaman.
-
+**Men dasturchi emasman shunchaki qiziqishlarim test qiliaman
 ---
 
-## 🛠 Ko‘nikmalarim
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Frameworks / Libraries:** React, Tailwind CSS  
-- **Tools:** Git, GitHub, VS Code, Figma  
-- **Design:** Minimal, clean UI/UX
-
----
 
 ## 💻 Portfolio
 Mana ba’zi loyihalarim:
@@ -23,8 +14,8 @@ Mana ba’zi loyihalarim:
 ---
 
 ## 📫 Kontakt
-- Email: **xoleric@example.com**  
-- Telegram: [@Xolericuz](https://t.me/Xolericuz)  
+- Email: **devxoleric@gmail.com**  
+- Telegram: [@cvants](https://t.me/cvants)  
 - GitHub: [Xolericuz](https://github.com/Xolericuz)  
 
 ---
