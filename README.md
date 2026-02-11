@@ -1,26 +1,3 @@
-
-
-## 🛠️ Professional Tech Stack
-
-<div align="center">
-
-### 📚 Programming Languages
-![Languages](https://skillicons.dev/icons?i=cpp,java,python,js,ts,rust,go,kotlin,scala,swift&perline=10&theme=dark)
-
-### 🚀 Frontend Ecosystem
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,redux,webpack,vite,tailwind&perline=10&theme=dark)
-
-### ⚙️ Backend & DevOps
-![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,flask,fastapi,graphql&perline=8&theme=dark)
-![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,terraform,ansible,jenkins,githubactions,nginx&perline=10&theme=dark)
-
-### 💾 Databases & Tools
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,elasticsearch,cassandra,postman,git,github,gitlab,vscode,intellij&perline=12&theme=dark)
-
-</div>
-
----
-
 ## 📊 Real-Time Professional Metrics
 
 <div align="center">
