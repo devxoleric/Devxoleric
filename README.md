@@ -5,17 +5,6 @@
 ### ⚡ GitHub Activity Stream
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xolericuz&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Professional+Activity+Timeline&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41)
 
-### 📈 Performance Analytics
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=xolericuz&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&custom_title=GitHub+Statistics" alt="GitHub Stats" width="100%">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xolericuz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff&langs_count=8&exclude_repo=archive,temp,test" alt="Top Languages" width="100%">
-    </td>
-  </tr>
-</table>
 
 ### 🔥 Contribution Consistency
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xolericuz&theme=github-dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FF41)
